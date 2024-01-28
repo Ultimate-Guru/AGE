@@ -1,0 +1,93 @@
+.box1{
+    cursor: default;
+    width: 300px;
+    height: 210px;
+    margin-left: 36%;
+    border-radius: 5px 2px;
+    background-color: darksalmon;
+    box-shadow: 6px 8px 10px red, 5px 6px 5px yellow;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.how{
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    margin-top: -9.3px;
+}
+.month{
+    margin-top: -10px;
+    color: black;
+    font-style: initial;
+    font-weight: 600;
+    font-family: 'Segoe UI';
+    text-align: center;
+}
+input[type='date']{
+    margin-left: 90px;
+    margin-top: -20px;
+}
+button{
+    display: flex;
+    margin-left: 115px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+button:hover{
+    padding: 3px;
+}
+#box2{
+    cursor: default;
+    border-radius: 5px 3px;
+    margin-top: 3%;
+    margin-left: 36%;
+    width: 300px;
+    height: 300px;
+    background-color: yellowgreen;
+    box-shadow: 6px 8px 10px yellow, 5px 10px 13px red;
+}
+h2{
+    color: #fff;
+    text-align: center;
+    font-size: x-large;
+}
+h3{
+    color: #fff;
+    text-align: center;
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    margin-top: -9.3px;
+}
+.current{
+    font-weight: bold;
+    color: black;
+    font-style: initial;
+    font-weight: 600;
+    font-family: 'Segoe UI';
+    text-align: center;
+}
+input[type='text']{
+    width: 115px;
+    margin-left: 90px;
+    padding: 3px;
+    margin-top: -20px;
+    outline: 0;     
+}
+.most{
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+label{
+    margin-left: 25px;
+    font-weight: bold;
+    font-family: Georgia;
+}
+.mit{
+    margin-top: 20px;
+}
+.mit:hover{
+    padding: 3px;
+}
